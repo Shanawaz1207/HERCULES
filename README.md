@@ -7,6 +7,7 @@
 | [0011-container-with-most-water](https://github.com/Shanawaz1207/HERCULES/tree/master/0011-container-with-most-water) |
 | [0088-merge-sorted-array](https://github.com/Shanawaz1207/HERCULES/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/Shanawaz1207/HERCULES/tree/master/0136-single-number) |
+| [0283-move-zeroes](https://github.com/Shanawaz1207/HERCULES/tree/master/0283-move-zeroes) |
 | [1572-matrix-diagonal-sum](https://github.com/Shanawaz1207/HERCULES/tree/master/1572-matrix-diagonal-sum) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Shanawaz1207/HERCULES/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3903-smallest-stable-index-i](https://github.com/Shanawaz1207/HERCULES/tree/master/3903-smallest-stable-index-i) |
@@ -16,6 +17,7 @@
 | [0011-container-with-most-water](https://github.com/Shanawaz1207/HERCULES/tree/master/0011-container-with-most-water) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Shanawaz1207/HERCULES/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0088-merge-sorted-array](https://github.com/Shanawaz1207/HERCULES/tree/master/0088-merge-sorted-array) |
+| [0283-move-zeroes](https://github.com/Shanawaz1207/HERCULES/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Shanawaz1207/HERCULES/tree/master/0344-reverse-string) |
 ## Greedy
 |  |
