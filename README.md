@@ -63,6 +63,7 @@
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/Shanawaz1207/HERCULES/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/Shanawaz1207/HERCULES/tree/master/0070-climbing-stairs) |
 ## Dynamic Programming
 |  |
@@ -80,4 +81,8 @@
 |  |
 | ------- |
 | [1572-matrix-diagonal-sum](https://github.com/Shanawaz1207/HERCULES/tree/master/1572-matrix-diagonal-sum) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/Shanawaz1207/HERCULES/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
