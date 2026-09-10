@@ -10,6 +10,7 @@
 | [0088-merge-sorted-array](https://github.com/Shanawaz1207/HERCULES/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/Shanawaz1207/HERCULES/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Shanawaz1207/HERCULES/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0169-majority-element](https://github.com/Shanawaz1207/HERCULES/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/Shanawaz1207/HERCULES/tree/master/0283-move-zeroes) |
 | [1572-matrix-diagonal-sum](https://github.com/Shanawaz1207/HERCULES/tree/master/1572-matrix-diagonal-sum) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Shanawaz1207/HERCULES/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -38,6 +39,7 @@
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Shanawaz1207/HERCULES/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/Shanawaz1207/HERCULES/tree/master/0169-majority-element) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Shanawaz1207/HERCULES/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 ## String
 |  |
@@ -92,4 +94,20 @@
 |  |
 | ------- |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Shanawaz1207/HERCULES/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+## Hash Table
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Shanawaz1207/HERCULES/tree/master/0169-majority-element) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Shanawaz1207/HERCULES/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Shanawaz1207/HERCULES/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Shanawaz1207/HERCULES/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
