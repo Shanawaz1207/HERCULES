@@ -66,6 +66,7 @@
 | ------- |
 | [0050-powx-n](https://github.com/Shanawaz1207/HERCULES/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/Shanawaz1207/HERCULES/tree/master/0070-climbing-stairs) |
+| [0326-power-of-three](https://github.com/Shanawaz1207/HERCULES/tree/master/0326-power-of-three) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -86,6 +87,7 @@
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Shanawaz1207/HERCULES/tree/master/0050-powx-n) |
+| [0326-power-of-three](https://github.com/Shanawaz1207/HERCULES/tree/master/0326-power-of-three) |
 ## Binary Search
 |  |
 | ------- |
