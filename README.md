@@ -9,6 +9,7 @@
 | [0027-remove-element](https://github.com/Shanawaz1207/HERCULES/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/Shanawaz1207/HERCULES/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/Shanawaz1207/HERCULES/tree/master/0136-single-number) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Shanawaz1207/HERCULES/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0283-move-zeroes](https://github.com/Shanawaz1207/HERCULES/tree/master/0283-move-zeroes) |
 | [1572-matrix-diagonal-sum](https://github.com/Shanawaz1207/HERCULES/tree/master/1572-matrix-diagonal-sum) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Shanawaz1207/HERCULES/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -85,4 +86,8 @@
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Shanawaz1207/HERCULES/tree/master/0050-powx-n) |
+## Binary Search
+|  |
+| ------- |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Shanawaz1207/HERCULES/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 <!---LeetCode Topics End-->
