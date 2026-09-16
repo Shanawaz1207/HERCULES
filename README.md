@@ -70,6 +70,7 @@
 | [0070-climbing-stairs](https://github.com/Shanawaz1207/HERCULES/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/Shanawaz1207/HERCULES/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Shanawaz1207/HERCULES/tree/master/0326-power-of-three) |
+| [0492-construct-the-rectangle](https://github.com/Shanawaz1207/HERCULES/tree/master/0492-construct-the-rectangle) |
 ## Dynamic Programming
 |  |
 | ------- |
