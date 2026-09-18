@@ -13,6 +13,7 @@
 | [0169-majority-element](https://github.com/Shanawaz1207/HERCULES/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/Shanawaz1207/HERCULES/tree/master/0283-move-zeroes) |
 | [1572-matrix-diagonal-sum](https://github.com/Shanawaz1207/HERCULES/tree/master/1572-matrix-diagonal-sum) |
+| [1732-find-the-highest-altitude](https://github.com/Shanawaz1207/HERCULES/tree/master/1732-find-the-highest-altitude) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Shanawaz1207/HERCULES/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3903-smallest-stable-index-i](https://github.com/Shanawaz1207/HERCULES/tree/master/3903-smallest-stable-index-i) |
 ## Two Pointers
@@ -34,6 +35,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [1732-find-the-highest-altitude](https://github.com/Shanawaz1207/HERCULES/tree/master/1732-find-the-highest-altitude) |
 | [3903-smallest-stable-index-i](https://github.com/Shanawaz1207/HERCULES/tree/master/3903-smallest-stable-index-i) |
 ## Sorting
 |  |
