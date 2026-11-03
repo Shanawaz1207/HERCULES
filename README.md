@@ -16,6 +16,7 @@
 | [1732-find-the-highest-altitude](https://github.com/Shanawaz1207/HERCULES/tree/master/1732-find-the-highest-altitude) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Shanawaz1207/HERCULES/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Shanawaz1207/HERCULES/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Shanawaz1207/HERCULES/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3903-smallest-stable-index-i](https://github.com/Shanawaz1207/HERCULES/tree/master/3903-smallest-stable-index-i) |
 ## Two Pointers
 |  |
@@ -76,6 +77,7 @@
 | [0326-power-of-three](https://github.com/Shanawaz1207/HERCULES/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Shanawaz1207/HERCULES/tree/master/0342-power-of-four) |
 | [0492-construct-the-rectangle](https://github.com/Shanawaz1207/HERCULES/tree/master/0492-construct-the-rectangle) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Shanawaz1207/HERCULES/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Dynamic Programming
 |  |
 | ------- |
