@@ -19,6 +19,7 @@
 | [0238-product-of-array-except-self](https://github.com/Shanawaz1207/HERCULES/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/Shanawaz1207/HERCULES/tree/master/0283-move-zeroes) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Shanawaz1207/HERCULES/tree/master/0628-maximum-product-of-three-numbers) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/Shanawaz1207/HERCULES/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1572-matrix-diagonal-sum](https://github.com/Shanawaz1207/HERCULES/tree/master/1572-matrix-diagonal-sum) |
 | [1732-find-the-highest-altitude](https://github.com/Shanawaz1207/HERCULES/tree/master/1732-find-the-highest-altitude) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Shanawaz1207/HERCULES/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -122,6 +123,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/Shanawaz1207/HERCULES/tree/master/0033-search-in-rotated-sorted-array) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Shanawaz1207/HERCULES/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Shanawaz1207/HERCULES/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/Shanawaz1207/HERCULES/tree/master/0852-peak-index-in-a-mountain-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Shanawaz1207/HERCULES/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Hash Table
 |  |
@@ -140,4 +142,8 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Shanawaz1207/HERCULES/tree/master/0169-majority-element) |
+## Ternary Search
+|  |
+| ------- |
+| [0852-peak-index-in-a-mountain-array](https://github.com/Shanawaz1207/HERCULES/tree/master/0852-peak-index-in-a-mountain-array) |
 <!---LeetCode Topics End-->
