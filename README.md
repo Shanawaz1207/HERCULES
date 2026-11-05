@@ -23,6 +23,7 @@
 | [0852-peak-index-in-a-mountain-array](https://github.com/Shanawaz1207/HERCULES/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1572-matrix-diagonal-sum](https://github.com/Shanawaz1207/HERCULES/tree/master/1572-matrix-diagonal-sum) |
 | [1732-find-the-highest-altitude](https://github.com/Shanawaz1207/HERCULES/tree/master/1732-find-the-highest-altitude) |
+| [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Shanawaz1207/HERCULES/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Shanawaz1207/HERCULES/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Shanawaz1207/HERCULES/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2465-number-of-distinct-averages](https://github.com/Shanawaz1207/HERCULES/tree/master/2465-number-of-distinct-averages) |
@@ -141,6 +142,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Shanawaz1207/HERCULES/tree/master/0169-majority-element) |
+| [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Shanawaz1207/HERCULES/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2465-number-of-distinct-averages](https://github.com/Shanawaz1207/HERCULES/tree/master/2465-number-of-distinct-averages) |
 ## Divide and Conquer
 |  |
@@ -151,6 +153,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Shanawaz1207/HERCULES/tree/master/0169-majority-element) |
+| [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Shanawaz1207/HERCULES/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
