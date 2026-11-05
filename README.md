@@ -13,6 +13,7 @@
 | [0136-single-number](https://github.com/Shanawaz1207/HERCULES/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Shanawaz1207/HERCULES/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/Shanawaz1207/HERCULES/tree/master/0169-majority-element) |
+| [0238-product-of-array-except-self](https://github.com/Shanawaz1207/HERCULES/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/Shanawaz1207/HERCULES/tree/master/0283-move-zeroes) |
 | [1572-matrix-diagonal-sum](https://github.com/Shanawaz1207/HERCULES/tree/master/1572-matrix-diagonal-sum) |
 | [1732-find-the-highest-altitude](https://github.com/Shanawaz1207/HERCULES/tree/master/1732-find-the-highest-altitude) |
@@ -39,6 +40,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/Shanawaz1207/HERCULES/tree/master/0238-product-of-array-except-self) |
 | [1732-find-the-highest-altitude](https://github.com/Shanawaz1207/HERCULES/tree/master/1732-find-the-highest-altitude) |
 | [3903-smallest-stable-index-i](https://github.com/Shanawaz1207/HERCULES/tree/master/3903-smallest-stable-index-i) |
 ## Sorting
