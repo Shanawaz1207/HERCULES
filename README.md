@@ -26,6 +26,7 @@
 | [2089-find-target-indices-after-sorting-array](https://github.com/Shanawaz1207/HERCULES/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Shanawaz1207/HERCULES/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2465-number-of-distinct-averages](https://github.com/Shanawaz1207/HERCULES/tree/master/2465-number-of-distinct-averages) |
+| [2563-count-the-number-of-fair-pairs](https://github.com/Shanawaz1207/HERCULES/tree/master/2563-count-the-number-of-fair-pairs) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/Shanawaz1207/HERCULES/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Shanawaz1207/HERCULES/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3903-smallest-stable-index-i](https://github.com/Shanawaz1207/HERCULES/tree/master/3903-smallest-stable-index-i) |
@@ -41,6 +42,7 @@
 | [0283-move-zeroes](https://github.com/Shanawaz1207/HERCULES/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Shanawaz1207/HERCULES/tree/master/0344-reverse-string) |
 | [2465-number-of-distinct-averages](https://github.com/Shanawaz1207/HERCULES/tree/master/2465-number-of-distinct-averages) |
+| [2563-count-the-number-of-fair-pairs](https://github.com/Shanawaz1207/HERCULES/tree/master/2563-count-the-number-of-fair-pairs) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/Shanawaz1207/HERCULES/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 ## Greedy
 |  |
@@ -62,6 +64,7 @@
 | [2089-find-target-indices-after-sorting-array](https://github.com/Shanawaz1207/HERCULES/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Shanawaz1207/HERCULES/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2465-number-of-distinct-averages](https://github.com/Shanawaz1207/HERCULES/tree/master/2465-number-of-distinct-averages) |
+| [2563-count-the-number-of-fair-pairs](https://github.com/Shanawaz1207/HERCULES/tree/master/2563-count-the-number-of-fair-pairs) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/Shanawaz1207/HERCULES/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 ## String
 |  |
@@ -133,6 +136,7 @@
 | [0540-single-element-in-a-sorted-array](https://github.com/Shanawaz1207/HERCULES/tree/master/0540-single-element-in-a-sorted-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Shanawaz1207/HERCULES/tree/master/0852-peak-index-in-a-mountain-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Shanawaz1207/HERCULES/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2563-count-the-number-of-fair-pairs](https://github.com/Shanawaz1207/HERCULES/tree/master/2563-count-the-number-of-fair-pairs) |
 ## Hash Table
 |  |
 | ------- |
