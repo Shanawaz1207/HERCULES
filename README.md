@@ -25,6 +25,7 @@
 | [1732-find-the-highest-altitude](https://github.com/Shanawaz1207/HERCULES/tree/master/1732-find-the-highest-altitude) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Shanawaz1207/HERCULES/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Shanawaz1207/HERCULES/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/Shanawaz1207/HERCULES/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Shanawaz1207/HERCULES/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3903-smallest-stable-index-i](https://github.com/Shanawaz1207/HERCULES/tree/master/3903-smallest-stable-index-i) |
 ## Two Pointers
@@ -38,6 +39,7 @@
 | [0125-valid-palindrome](https://github.com/Shanawaz1207/HERCULES/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/Shanawaz1207/HERCULES/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Shanawaz1207/HERCULES/tree/master/0344-reverse-string) |
+| [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/Shanawaz1207/HERCULES/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 ## Greedy
 |  |
 | ------- |
@@ -57,6 +59,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/Shanawaz1207/HERCULES/tree/master/0628-maximum-product-of-three-numbers) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Shanawaz1207/HERCULES/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Shanawaz1207/HERCULES/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/Shanawaz1207/HERCULES/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 ## String
 |  |
 | ------- |
