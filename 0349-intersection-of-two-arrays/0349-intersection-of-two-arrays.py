@@ -5,7 +5,8 @@ class Solution(object):
         :type nums2: List[int]
         :rtype: List[int]
         """
-        num1=set(nums1)
-        num2=set(nums2)
-        s=num1.intersection(num2)
-        return list(s)
+        L=[]
+        for num in nums1:
+            if num in nums2 and num not in L:
+                L.append(num)
+        return L
