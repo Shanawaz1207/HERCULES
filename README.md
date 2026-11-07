@@ -77,6 +77,7 @@
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Shanawaz1207/HERCULES/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Shanawaz1207/HERCULES/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/Shanawaz1207/HERCULES/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Shanawaz1207/HERCULES/tree/master/0344-reverse-string) |
@@ -153,6 +154,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Shanawaz1207/HERCULES/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0169-majority-element](https://github.com/Shanawaz1207/HERCULES/tree/master/0169-majority-element) |
 | [0349-intersection-of-two-arrays](https://github.com/Shanawaz1207/HERCULES/tree/master/0349-intersection-of-two-arrays) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Shanawaz1207/HERCULES/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
@@ -175,4 +177,8 @@
 |  |
 | ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Shanawaz1207/HERCULES/tree/master/0852-peak-index-in-a-mountain-array) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Shanawaz1207/HERCULES/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
