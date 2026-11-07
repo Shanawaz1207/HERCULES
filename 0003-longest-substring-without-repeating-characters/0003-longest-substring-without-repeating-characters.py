@@ -6,17 +6,12 @@ class Solution(object):
         """
         
         l=0
-        r=0
-        L=[]
-        k=""
-        maxlen=0
-        while r<len(s):
-            if s[r] in k:
-                l+=k.index(s[r])+1
-                k=s[l:r+1]
-                r+=1
-            else:
-                k+=s[r]
-                r+=1
-            maxlen=max(maxlen, len(k))
-        return maxlen
+        charset=set()
+        res=0
+        for r in range(len(s)):
+            while s[r] in charset:
+                charset.remove(s[l])
+                l+=1
+            charset.add(s[r])
+            res=max(res,r-l+1)
+        return res
