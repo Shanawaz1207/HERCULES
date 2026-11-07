@@ -18,6 +18,7 @@
 | [0169-majority-element](https://github.com/Shanawaz1207/HERCULES/tree/master/0169-majority-element) |
 | [0238-product-of-array-except-self](https://github.com/Shanawaz1207/HERCULES/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/Shanawaz1207/HERCULES/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/Shanawaz1207/HERCULES/tree/master/0349-intersection-of-two-arrays) |
 | [0410-split-array-largest-sum](https://github.com/Shanawaz1207/HERCULES/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Shanawaz1207/HERCULES/tree/master/0540-single-element-in-a-sorted-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Shanawaz1207/HERCULES/tree/master/0628-maximum-product-of-three-numbers) |
@@ -43,6 +44,7 @@
 | [0125-valid-palindrome](https://github.com/Shanawaz1207/HERCULES/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/Shanawaz1207/HERCULES/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Shanawaz1207/HERCULES/tree/master/0344-reverse-string) |
+| [0349-intersection-of-two-arrays](https://github.com/Shanawaz1207/HERCULES/tree/master/0349-intersection-of-two-arrays) |
 | [2465-number-of-distinct-averages](https://github.com/Shanawaz1207/HERCULES/tree/master/2465-number-of-distinct-averages) |
 | [2563-count-the-number-of-fair-pairs](https://github.com/Shanawaz1207/HERCULES/tree/master/2563-count-the-number-of-fair-pairs) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/Shanawaz1207/HERCULES/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
@@ -64,6 +66,7 @@
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Shanawaz1207/HERCULES/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Shanawaz1207/HERCULES/tree/master/0169-majority-element) |
+| [0349-intersection-of-two-arrays](https://github.com/Shanawaz1207/HERCULES/tree/master/0349-intersection-of-two-arrays) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Shanawaz1207/HERCULES/tree/master/0628-maximum-product-of-three-numbers) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Shanawaz1207/HERCULES/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Shanawaz1207/HERCULES/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -138,6 +141,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/Shanawaz1207/HERCULES/tree/master/0033-search-in-rotated-sorted-array) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Shanawaz1207/HERCULES/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Shanawaz1207/HERCULES/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0349-intersection-of-two-arrays](https://github.com/Shanawaz1207/HERCULES/tree/master/0349-intersection-of-two-arrays) |
 | [0410-split-array-largest-sum](https://github.com/Shanawaz1207/HERCULES/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Shanawaz1207/HERCULES/tree/master/0540-single-element-in-a-sorted-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Shanawaz1207/HERCULES/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -147,6 +151,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Shanawaz1207/HERCULES/tree/master/0169-majority-element) |
+| [0349-intersection-of-two-arrays](https://github.com/Shanawaz1207/HERCULES/tree/master/0349-intersection-of-two-arrays) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Shanawaz1207/HERCULES/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2465-number-of-distinct-averages](https://github.com/Shanawaz1207/HERCULES/tree/master/2465-number-of-distinct-averages) |
 ## Divide and Conquer
