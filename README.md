@@ -44,6 +44,7 @@
 | [0125-valid-palindrome](https://github.com/Shanawaz1207/HERCULES/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/Shanawaz1207/HERCULES/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Shanawaz1207/HERCULES/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/Shanawaz1207/HERCULES/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Shanawaz1207/HERCULES/tree/master/0349-intersection-of-two-arrays) |
 | [2465-number-of-distinct-averages](https://github.com/Shanawaz1207/HERCULES/tree/master/2465-number-of-distinct-averages) |
 | [2563-count-the-number-of-fair-pairs](https://github.com/Shanawaz1207/HERCULES/tree/master/2563-count-the-number-of-fair-pairs) |
@@ -79,6 +80,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Shanawaz1207/HERCULES/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/Shanawaz1207/HERCULES/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Shanawaz1207/HERCULES/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/Shanawaz1207/HERCULES/tree/master/0345-reverse-vowels-of-a-string) |
 ## String Matching
 |  |
 | ------- |
