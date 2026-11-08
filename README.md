@@ -86,6 +86,7 @@
 | [0344-reverse-string](https://github.com/Shanawaz1207/HERCULES/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Shanawaz1207/HERCULES/tree/master/0345-reverse-vowels-of-a-string) |
 | [0434-number-of-segments-in-a-string](https://github.com/Shanawaz1207/HERCULES/tree/master/0434-number-of-segments-in-a-string) |
+| [0520-detect-capital](https://github.com/Shanawaz1207/HERCULES/tree/master/0520-detect-capital) |
 ## String Matching
 |  |
 | ------- |
