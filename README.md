@@ -15,6 +15,7 @@
 | [0136-single-number](https://github.com/Shanawaz1207/HERCULES/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/Shanawaz1207/HERCULES/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Shanawaz1207/HERCULES/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0164-maximum-gap](https://github.com/Shanawaz1207/HERCULES/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/Shanawaz1207/HERCULES/tree/master/0169-majority-element) |
 | [0238-product-of-array-except-self](https://github.com/Shanawaz1207/HERCULES/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/Shanawaz1207/HERCULES/tree/master/0283-move-zeroes) |
@@ -68,6 +69,7 @@
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Shanawaz1207/HERCULES/tree/master/0088-merge-sorted-array) |
+| [0164-maximum-gap](https://github.com/Shanawaz1207/HERCULES/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/Shanawaz1207/HERCULES/tree/master/0169-majority-element) |
 | [0349-intersection-of-two-arrays](https://github.com/Shanawaz1207/HERCULES/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/Shanawaz1207/HERCULES/tree/master/0414-third-maximum-number) |
@@ -188,4 +190,16 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Shanawaz1207/HERCULES/tree/master/0003-longest-substring-without-repeating-characters) |
+## Bucket Sort
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/Shanawaz1207/HERCULES/tree/master/0164-maximum-gap) |
+## Radix Sort
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/Shanawaz1207/HERCULES/tree/master/0164-maximum-gap) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/Shanawaz1207/HERCULES/tree/master/0164-maximum-gap) |
 <!---LeetCode Topics End-->
