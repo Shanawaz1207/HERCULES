@@ -57,6 +57,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/Shanawaz1207/HERCULES/tree/master/0011-container-with-most-water) |
 | [0410-split-array-largest-sum](https://github.com/Shanawaz1207/HERCULES/tree/master/0410-split-array-largest-sum) |
+| [1323-maximum-69-number](https://github.com/Shanawaz1207/HERCULES/tree/master/1323-maximum-69-number) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Shanawaz1207/HERCULES/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 ## Prefix Sum
 |  |
@@ -115,6 +116,7 @@
 | [0342-power-of-four](https://github.com/Shanawaz1207/HERCULES/tree/master/0342-power-of-four) |
 | [0492-construct-the-rectangle](https://github.com/Shanawaz1207/HERCULES/tree/master/0492-construct-the-rectangle) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Shanawaz1207/HERCULES/tree/master/0628-maximum-product-of-three-numbers) |
+| [1323-maximum-69-number](https://github.com/Shanawaz1207/HERCULES/tree/master/1323-maximum-69-number) |
 | [2651-calculate-delayed-arrival-time](https://github.com/Shanawaz1207/HERCULES/tree/master/2651-calculate-delayed-arrival-time) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Shanawaz1207/HERCULES/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Dynamic Programming
