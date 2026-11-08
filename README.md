@@ -21,6 +21,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/Shanawaz1207/HERCULES/tree/master/0349-intersection-of-two-arrays) |
 | [0410-split-array-largest-sum](https://github.com/Shanawaz1207/HERCULES/tree/master/0410-split-array-largest-sum) |
 | [0414-third-maximum-number](https://github.com/Shanawaz1207/HERCULES/tree/master/0414-third-maximum-number) |
+| [0485-max-consecutive-ones](https://github.com/Shanawaz1207/HERCULES/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Shanawaz1207/HERCULES/tree/master/0540-single-element-in-a-sorted-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Shanawaz1207/HERCULES/tree/master/0628-maximum-product-of-three-numbers) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Shanawaz1207/HERCULES/tree/master/0852-peak-index-in-a-mountain-array) |
